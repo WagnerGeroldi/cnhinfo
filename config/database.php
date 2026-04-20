@@ -3,9 +3,9 @@
 declare(strict_types=1);
 
 const DB_HOST = 'localhost';
-const DB_NAME = 'cnhi';
-const DB_USER = 'root';
-const DB_PASS = '1234567';
+const DB_NAME = 'cnhinfoc_cnhi';
+const DB_USER = 'cnhinfoc_admin';
+const DB_PASS = 'Unisoft1997#';
 const APP_NAME = 'CNHI';
 const APP_URL = '';
 
