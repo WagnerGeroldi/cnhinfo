@@ -14,7 +14,6 @@ require __DIR__ . '/partials_header.php';
             <a href="#como-funciona">Como funciona</a>
             <a href="#consulta">Consultar certificado</a>
             <a href="#contato">Contato</a>
-            <a href="admin/login.php" class="btn btn-outline">Painel</a>
         </nav>
     </div>
 </header>
