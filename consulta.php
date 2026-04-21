@@ -11,7 +11,7 @@ $bloquearVisualizacao = false;
 $whatsContatoUrl = '';
 
 if ($nome === '' || $matricula === '') {
-    $erro = 'Informe nome completo e matrícula para realizar a consulta.';
+    $erro = 'Informe nome completo e sua matrícula para realizar a consulta.';
 } else {
     $pdo = getPDO();
 
@@ -137,7 +137,7 @@ require __DIR__ . '/partials_header.php';
         display: flex;
         align-items: center;
         justify-content: space-between;
-        gap: 16px;
+        gap: 17px;
         margin-bottom: 20px;
         flex-wrap: wrap;
     }
